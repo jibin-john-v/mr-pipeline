@@ -1,0 +1,3 @@
+gwas_id,file_path
+schizophrenia,/mnt/fst/schizophrenia.vcf.gz
+bipolar,/mnt/fst/bipolar.vcf.gz
